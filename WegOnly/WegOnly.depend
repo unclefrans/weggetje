@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1362524301 source:c:\users\frans tuinstra\desktop\school\derde 10 weken\weggetje in c\wegonly\main.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+

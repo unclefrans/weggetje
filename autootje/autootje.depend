@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1360160048 source:c:\users\frans tuinstra\desktop\school\derde 10 weken\weggetje in c\autootje\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

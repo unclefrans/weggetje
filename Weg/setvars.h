@@ -1,0 +1,13 @@
+int linksbuiten = 00;
+int linksbinnen = 22;
+int rechtsbuiten = 60;
+int rechtsbinnen = 38;
+int carposx = 30;
+int carposy = 20;
+int timer = 0;
+int accel = 1000;
+int i;
+int j;
+int y = 20;
+int x = 30;
+char map[75][75];

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1361953200 source:c:\users\frans tuinstra\desktop\school\derde 10 weken\weggetje in c\weg\main.cpp
+	"includes.h"
+	"setvars.h"
+	"functions.h"
+
+1361790830 c:\users\frans tuinstra\desktop\school\derde 10 weken\weggetje in c\weg\functions.h
+
+1360309869 c:\users\frans tuinstra\desktop\school\derde 10 weken\weggetje in c\weg\setintegers.h
+
+1360309805 c:\users\frans tuinstra\desktop\school\derde 10 weken\weggetje in c\weg\includes.h
+	<iostream>
+	<Windows.h>
+	<conio.h>
+
+1360668282 c:\users\frans tuinstra\desktop\school\derde 10 weken\weggetje in c\weg\setvars.h
+
